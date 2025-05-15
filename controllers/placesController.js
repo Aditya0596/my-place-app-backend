@@ -1,4 +1,4 @@
-import Place from "../models/Place.js";
+import Place from "../models/place.js";
 
 // Get all places of a user or filter by category
 export const getPlaces = async (req, res) => {
